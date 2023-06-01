@@ -64,7 +64,10 @@ public class CommonFactor implements ICommonFactor
     }
     return mostOccurringValue;
   }
-
+  
+  /**
+   * Operation to get highest common factor
+   */
   public int getHighestCommonFactor()
   {
     return highestCommonFactor;

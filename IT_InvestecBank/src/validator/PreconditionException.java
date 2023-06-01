@@ -9,14 +9,11 @@ package validator;
  * one place and the developer does not the need to type the messages in
  * repeatedly.
  * This the same principle as used in the junit API.</p>
- * <p>Copyright: Copyright (c) 2002</p>
- * <p>Company: Discovery Life</p>
- * @author  Discovery Life Servicing Team
+ * <p>Copyright: Copyright (c) 2023</p>
+ * <p>Company: Investec_Bank</p>
+ * @author  Alex Mahomana
  * @version 1.0
  * 
- * Revision
- * 1. Added functionality to check on empty collections.
- *    WLY 2004/08/04
  */
 public class PreconditionException extends RuntimeException
 {

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IT_InvestecBank/IT_InvestecBank.iml" filepath="$PROJECT_DIR$/IT_InvestecBank/IT_InvestecBank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/IT_VannilaJava/IT_VannilaJava.iml" filepath="$PROJECT_DIR$/untitled/IT_VannilaJava/IT_VannilaJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Workspace.iml" filepath="$PROJECT_DIR$/.idea/Workspace.iml" />
+    </modules>
+  </component>
+</project>

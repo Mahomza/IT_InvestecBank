@@ -96,7 +96,7 @@ public class AddressBusinessServiceTest
   }
 
   /**
-   * Operation to print address for certain type.
+   * Operation to find/retrieve address for certain type.
    *
    * @param eAddressType the enum for type of address
    * @param addresses    the list of addresses to iterate through while printing
